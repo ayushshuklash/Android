@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="tp">Customer or Owner</string>
+    <string name="typeofshop">Category of Shop</string>
+    <string-array name="type">
+        <item>Owner</item>
+        <item>Customer</item>
+    </string-array>
+
+    <string-array name="typeof">
+        <item>General Store</item>
+        <item>Medical Store</item>
+        <item>Clothing</item>
+        <item>Bakery</item>
+    </string-array>
+    <string name="title_activity_location">Map</string>
+</resources>
